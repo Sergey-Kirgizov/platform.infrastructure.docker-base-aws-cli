@@ -1,0 +1,11 @@
+# Valid values lookup: https://github.com/EBSCOIS/platform.infrastructure.medusa-data-validator/blob/master/medusa_data_validator/application_metadata.yaml
+Application:
+  Name: aws-cli
+  Domain: platform
+  Market: infrastructure
+  Team: pipe-fiction
+  Art: epa
+  ProductLine: shared
+Pipeline:
+  Archetype: docker-image-v1
+  MajorVersion: 1
